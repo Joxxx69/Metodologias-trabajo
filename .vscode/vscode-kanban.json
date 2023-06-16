@@ -1,0 +1,91 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "barbol-meowth"
+      },
+      "category": "Historia de usuario",
+      "creation_time": "2023-06-16T22:40:30.251Z",
+      "details": {
+        "content": "Deseo un programa que pueda resolver el puzzle de cruzar el rio. Este puzzle corresponde a: en una orilla del rio se encuentran: un observador, un lobo, caperucita roja y unas uvas. Para cruzar el rio tienen una barca donde solamente pueden pasar dos personas. Por los tipos de elementos, el observador será el único capaz de remar, por lo cual el siempre irá en la barca y elegir a quien llevar. La problematica es que el lobo y caperucita no se pueden quedar juntos porque el lobo la puede comer y tampoco se puede quedar caperucita con las uvas porque ella las puede comer.",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "HU001"
+    },
+    {
+      "assignedTo": {
+        "name": "Vulpix"
+      },
+      "category": "Iteracion 2",
+      "creation_time": "2023-06-16T22:46:23.176Z",
+      "description": {
+        "content": "Ejecucion de la prueba unitaria",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "PruebaUnitaria01"
+    },
+    {
+      "assignedTo": {
+        "name": "Charmander"
+      },
+      "category": "Iteracion 1",
+      "creation_time": "2023-06-16T22:41:43.827Z",
+      "description": {
+        "content": "Establecimiento de Metafora",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "references": [],
+      "title": "Tarea01"
+    },
+    {
+      "assignedTo": {
+        "name": "Meowth-Barbol"
+      },
+      "category": "Iteracion 2",
+      "creation_time": "2023-06-16T22:47:32.250Z",
+      "description": {
+        "content": "Desarrollo del programa",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "references": [],
+      "title": "Tarea01"
+    },
+    {
+      "assignedTo": {
+        "name": "Meowth-Barbor"
+      },
+      "category": "Iteracion 1",
+      "creation_time": "2023-06-16T22:42:34.450Z",
+      "description": {
+        "content": "Diseño",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "Tarea02"
+    },
+    {
+      "assignedTo": {
+        "name": "Vulpix"
+      },
+      "category": "Iteracion 1",
+      "creation_time": "2023-06-16T22:43:30.148Z",
+      "description": {
+        "content": "Establecimiento de pruebas de aceptacion",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "references": [],
+      "title": "Tarea03"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}
